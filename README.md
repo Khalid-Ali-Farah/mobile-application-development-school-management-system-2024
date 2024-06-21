@@ -78,3 +78,18 @@ Date Sheet Screen: datesheet_screen.dart
 Firebase Documentation: Add Firebase to your Flutter app
 
 Flutter API reference documentation: Flutter API
+
+## Team Picture
+
+![Team Picture](https://github.com/Khalid-Ali-Farah/workshop2-smart-parking-system-2023/blob/13e252f77bbac271458cac23d3d44a9afa671f4f/IMG_2786.PNG)
+
+Group No: Group_1
+
+Team Members:
+
+B032020051 KHALID ALI (Project Manager)
+B032120087 OMAR BHAIS
+B032020059 AHMED ABDI
+B031910498 MOHAMMED SADEQ
+
+
