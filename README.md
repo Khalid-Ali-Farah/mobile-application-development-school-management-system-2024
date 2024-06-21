@@ -1,6 +1,6 @@
 # mobile-application-development-school-management-system-2024
 
-[![IMAGE ALT TEXT HERE](https://github.com/Khalid-Ali-Farah/mobile-application-development-school-management-system-2024/blob/c3d724c36ae66673240242509930bcc0a8c18a75/team.png)](https://youtu.be/sUaSTcqcB6E)
+(https://youtu.be/sUaSTcqcB6E)
 
 ## Introduction
 "My School" is a Flutter-based mobile app for Android designed to enhance education quality and accessibility, aligning with the UN's SDG for "Quality Education." It uses Firebase for backend support.
