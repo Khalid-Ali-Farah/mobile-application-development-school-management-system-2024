@@ -81,7 +81,7 @@ Flutter API reference documentation: Flutter API
 
 ## Team Picture
 
-![Team Picture](https://github.com/Khalid-Ali-Farah/workshop2-smart-parking-system-2023/blob/13e252f77bbac271458cac23d3d44a9afa671f4f/IMG_2786.PNG)
+![Team Picture](https://github.com/Khalid-Ali-Farah/mobile-application-development-school-management-system-2024/blob/a97fc265e938596a022e3491edf78301e0714cd2/team.png)
 
 Group No: Group_1
 
