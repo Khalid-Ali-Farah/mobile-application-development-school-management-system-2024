@@ -55,5 +55,7 @@ Assignment Screen: assignment_screen.dart
 Date Sheet Screen: datesheet_screen.dart
 
 ## References
+
 Firebase Documentation: Add Firebase to your Flutter app
+
 Flutter API reference documentation: Flutter API
