@@ -26,15 +26,24 @@ Contribution to SDG
 ## Scopes
 Authentication and Authorization
 Profile Management
+
 Academic Features: Attendance tracking, result management, leave applications, assignment submissions, and date sheet display.
-Target Users
+
+## Target Users
+
 Students: Access academic info, track attendance, submit assignments, apply for leaves.
 Educators: Manage attendance, evaluate assignments, communicate with students.
-Architecture
+
+## Architecture
+
 Presentation Layer: Manages UI/UX components.
+
 Business Layer: Handles app logic and functionalities.
+
 Data Layer: Uses Firebase for secure data storage and management.
-Firebase Database
+
+## Firebase Database
+
 Collections: Assignments, attendance, dataSheets, leaveApplications, results, student information.
 
 ## Conclusion
